@@ -12,7 +12,7 @@ Me desempeño entre la infraestructura, la tecnología y las finanzas sostenible
 Orquesto como quien recorre una partitura, para sentir cómo todo encaja en una sinfonía con propósito. 
 
 Me mueve el alegria de mi prójimo, el paisaje y la contemplación con armonía y visión.
-Amo el lujo noble y elegante, la belleza pensada, la matemática poética de un modelo bien armado.  
+Amo el lujo noble y elegante, la belleza pensada, la matemática poética de un modelo bien armado.
 Amo las matemáticas como amo el arte: como acceso a una forma de belleza estructural.
 Busco entender el mundo para contribuir en la forma de habitarlo.
 
