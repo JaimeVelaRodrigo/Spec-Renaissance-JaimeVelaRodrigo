@@ -7,24 +7,25 @@ Spec íntimo y vital de Jaime Vela – propósito, visión y servicio al mundo.
 
 ## 🎼 Introducción: Una vida entre sistemas y alma
 
-Soy un orquestador de sistemas complejos con alma de filósofo y esteta.  
-Me muevo entre la infraestructura energética, la tecnología emergente y las finanzas sostenibles como quien recorre una partitura:  
-no para calcular o anotar cada nota, sino para sentir cómo todo encaja en una sinfonía con propósito.
-Me mueve el arte y la belleza, el paisaje y la contemplación con armonía y visión.
-Amo el lujo sutil, noble y elegante, la belleza pensada, la matemática poética de un modelo bien armado.  
-No busco solo entender el mundo, sino construir una forma nueva de habitarlo.
+Soy un orquestador de sistemas complejos con alma filosófica y estetica.  
+Me desempeño entre la infraestructura, la tecnología y las finanzas sostenibles.
+Orquesto como quien recorre una partitura, para sentir cómo todo encaja en una sinfonía con propósito. 
+
+Me mueve el alegria de mi prójimo, el paisaje y la contemplación con armonía y visión.
+Amo el lujo noble y elegante, la belleza pensada, la matemática poética de un modelo bien armado.  
 Amo las matemáticas como amo el arte: como acceso a una forma de belleza estructural.
+Busco entender el mundo para contribuir en la forma de habitarlo.
 
 He vivido la potencia y el colapso, la empresa y la caída.  
-He vivido el impacto de la evolución tecnológica y económica, el desorden político y el cambio climático, y desde ahí ha surgido mi centro.  
+He vivido el impacto de la evolución tecnológica y económica, el desencuentro político y el cambio climático, y desde ahí ha surgido una misión.  
 Eso me ha dado una mirada que integra vinculos y cultura, clima y entorno, política y economía, evolución tecnológica y ética.  
 
 Veo los sistemas como un artista: desde la forma y el fondo, desde la estética y la lógica.
-Busco la raíz etimológica de las palabras o su origen en las tensiones sociales para resignificar y reconsiliar.
-Me interesa aportar y contemplar como todo encaja, no busco calcular, forzar o ver error, sino que armonizar: visiones, recursos, culturas y sentido. 
+Busco la raíz etimológica de las palabras o su origen en las tensiones para resignificar y reconsiliar.
+Me interesa aportar y contribuir, no busco calcular, forzar o ver error, sino que armonizar y contemplar como todo encaja: visiones, recursos y sentido. 
 
 Percibo lo esencial de las personas, su etimología emocional y espiritual.  
-Quiero ser parte del diseño de este nuevo código del mundo — uno en que la verdad, la armonía y la responsabilidad sean lenguaje común.
+Quiero ser parte del diseño de este mundo sustentable y sostneible que buscamos — uno en que la verdad, la armonía y la responsabilidad sean lenguaje común.
 
 ---
 
