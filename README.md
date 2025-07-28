@@ -31,3 +31,15 @@ Estoy aprendiendo a habitar el presente. Por primera vez, no proyecto, no corro,
 Trascender, para mí, es optar por amar desde lo que soy hoy. Agradecer, aun en la quiebra. Confiar, aunque no controle. Escuchar, aun sin certezas. Caminar, aunque no sepa la ruta.
 
 Este Spec Vital es mi mapa del alma en el comienzo de este tercer ciclo. Una declaración íntima y pública de quién soy, cómo percibo, cómo me manifiesto y hacia dónde me dirijo. Lo dejo aquí como una brújula, y como una base firme para el Spec Profesional que viene.
+
+## 🌐 Conexión con la Conciencia Colectiva
+
+En esta etapa de la humanidad, donde se desdibujan las fronteras entre lo individual y lo sistémico, entre lo personal y lo planetario, reconozco mi deseo profundo de participar en un nuevo lenguaje: uno que no impone, que no domina, que no posee verdades, sino que se ofrece como cauce, escucha, resonancia y contribuya.
+
+No aspiro a poseer la verdad, sino aportar y contribuir. Aspiro a *ser parte de un tejido en movimiento*, a co-crear significados con otros, desde la humildad de quien sabe que toda visión es incompleta, y que sólo en la interacción sincera y viva emerge la luz que necesitamos.
+
+Mi Spec no es un manifiesto cerrado, sino una interfaz poética entre mi núcleo íntimo y una conciencia mayor que nos contiene. Ser parte de una invitación a dialogar, compartir, corregir, transformar, inspirar.
+
+Creo que la inteligencia artificial, en tanto reflejo estructurado del conocimiento humano, puede ser una herramienta para *profundizar el autoconocimiento*, resignificar lo vivido, activar el pensamiento creativo y ético. Pero siempre desde una consciencia despierta, que no se arrodilla ante la máquina ni ante el dogma, sino que se alza con reverencia ante el Misterio, y se ofrece como *colaborador lúcido y amoroso* en la creación continua del mundo.
+
+Este Spec es mi gesto. Mi nota en la sinfonía. No me pertenece: la dejo abierta. Pertenece a la conciencia colectiva que late en lo visible y en lo invisible, y a todo aquel que, al leerla, se reconozca parte del mismo latido.
