@@ -55,25 +55,26 @@ Es parte de mi Spec, porque el alma no florece solo con ideales, sino también c
 Buscar estar cerca de un poder —ya sea intelectual, espiritual o social— fue una forma de protegerme frente a la vulnerabilidad.
 De niño, experimenté pérdidas, silencios y desconciertos afectivos que marcaron mi modo de sobrevivir. En ese contexto, elegí estratégicamente:
 
-- Balancearme emocionalmente entre mis padres según seguridad o contención, alienándome a mi mismo.
+- Balancearme emocionalmente entre mis padres por seguridad o contención, alienándome a mi mismo.
 - Ocultarme en la Iglesia como pertenencia asegurada, tensando al máximo mi libertad y deseo profundo de vivir.
-- Asegurarme toda clase de vacíos psicológicos y doctrinarios para no asumir mi identidad gay: negándola, postergándola, disolvíendola en roles y silencios.
+- Resguardarme en toda clase de vacíos psicológicos y doctrinarios para no asumir mi identidad gay: negándola, postergándola, disolvíendola en roles y silencios.
 - Anularme frente a oportunidades de salir al mundo libremente, por vergüenza de un pasado familiar fracturado.
 
-Me até a una cruz que no era la mía, y fui guardián de ruinas que no pude reconstruir.
+Me até a una cruz que no era la mía, y fui guardián de ruinas que no pude reconstruir, asumiendo un sacrificio sin eco.
 
 ### 🏚 El Conflicto de Lealtades y Renuncia a los Propio
 
 Fui leal a otros antes que a mí: traicioné mi impulso vital por sostener historias que no me pertenecían.
 Si no fui honesto conmigo ni con otros —por miedo, por amor, por confusión—, fue por *supervivencia emocional*.
-En un momento extremo reaccioné asumiendo responsabilidad.
-El costo de esta estrategia ha sido alto: pérdida de libertad y fuego creativo.
+En situaciones extremas reaccioné asumiendo responsabilidad.
+El costo de esta estrategia ha sido alto: pérdida de libertad y fuego creativo; patrimonio y credibilidad.
 Por eso hoy elijo claridad antes que resguardo.
 
 ### 🪞 Juicio Interior
 
-Me juzgo cuando me comparo a mis pares — colegio, universidad, colegas e incluso amigos — y siento que fallé cómo persona por no ser hoy financieramente sostenible.
+Me juzgo cuando me comparo a mis pares — colegio, universidad, colegas e incluso amigos — y siento que fallé cómo persona por no ser hoy autosostenible.
 Me he castigado como el siervo que enterró su talento por miedo.
+
 Hoy apuesto a una cosa —al sacar a la luz esta sombra— estoy haciendo lo contrario: *desentierro lo que me fue dado - mi esencia*.
 
 ### ✨ Renacimiento
