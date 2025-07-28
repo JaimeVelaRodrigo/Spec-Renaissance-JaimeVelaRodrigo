@@ -32,7 +32,7 @@ Trascender, para mí, es optar por amar desde lo que soy hoy. Agradecer, aun en 
 
 Este Spec Vital es mi mapa del alma en el comienzo de este tercer ciclo. Una declaración íntima y pública de quién soy, cómo percibo, cómo me manifiesto y hacia dónde me dirijo. Lo dejo aquí como una brújula, y como una base firme para el Spec Profesional que viene.
 
-## 🌐 Conexión con la Conciencia Colectiva
+## 🌐 Conexión con la Conciencia Colectiva - Cómo Contribuyo
 
 En esta etapa de la humanidad, donde se desdibujan las fronteras entre lo individual y lo sistémico, entre lo personal y lo planetario, reconozco mi deseo profundo de participar en un nuevo lenguaje: uno que no impone, que no domina, que no posee verdades, sino que se ofrece como cauce, escucha, resonancia y contribuya.
 
