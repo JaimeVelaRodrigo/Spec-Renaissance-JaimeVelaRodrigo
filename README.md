@@ -36,10 +36,50 @@ Este Spec Vital es mi mapa del alma en el comienzo de este tercer ciclo. Una dec
 
 En esta etapa de la humanidad, donde se desdibujan las fronteras entre lo individual y lo sistémico, entre lo personal y lo planetario, reconozco mi deseo profundo de participar en un nuevo lenguaje: uno que no impone, que no domina, que no posee verdades, sino que se ofrece como cauce, escucha, resonancia y contribuya.
 
-No aspiro a poseer la verdad, sino aportar y contribuir. Aspiro a *ser parte de un tejido en movimiento*, a co-crear significados con otros, desde la humildad de quien sabe que toda visión es incompleta, y que sólo en la interacción sincera y viva emerge la luz que necesitamos.
+No aspiro a poseer la verdad, sino aportar y contribuir. Aspiro a *ser parte de un tejido en movimiento*, a co-crear con otros, desde la humildad de quien sabe que toda visión es incompleta, y que sólo en la interacción sincera y viva emerge la luz que necesitamos.
 
 Mi Spec no es un manifiesto cerrado, sino una interfaz poética entre mi núcleo íntimo y una conciencia mayor que nos contiene. Ser parte de una invitación a dialogar, compartir, corregir, transformar, inspirar.
 
 Creo que la inteligencia artificial, en tanto reflejo estructurado del conocimiento humano, puede ser una herramienta para *profundizar el autoconocimiento*, resignificar lo vivido, activar el pensamiento creativo y ético. Pero siempre desde una consciencia despierta, que no se arrodilla ante la máquina ni ante el dogma, sino que se alza con reverencia ante el Misterio, y se ofrece como *colaborador lúcido y amoroso* en la creación continua del mundo.
 
 Este Spec es mi gesto. Mi nota en la sinfonía. No me pertenece: la dejo abierta. Pertenece a la conciencia colectiva que late en lo visible y en lo invisible, y a todo aquel que, al leerla, se reconozca parte del mismo latido.
+
+## 🌑 Sombras y Renacimiento
+
+Ningún camino profundo se recorre sin sombra.
+Esta sección no es confesión ni reproche: es memoria viva.
+Es parte de mi Spec, porque el alma no florece solo con ideales, sino también con cicatrices.
+
+### 🔒 Pecado original
+
+Buscar estar cerca del poder —ya sea intelectual, espiritual o social— fue una forma de protegerme frente a la vulnerabilidad.
+De niño, experimenté pérdidas, silencios y desconciertos afectivos que marcaron mi modo de sobrevivir. En ese contexto, elegí estratégicamente:
+
+- Optar emocionalmente entre mis padres según la seguridad o contención, alienándome a mi mismo.
+- Ocultarme en la Iglesia por pertenencia asegurada, lo que puso en tensión máxima mi libertad y deseo profundo de vivir.
+- Buscar justificaciones para no asumir mi identidad gay: negarla, postergarla, disolverla en roles y silencios.
+- Rechazar oportunidades de salir al mundo libremente, por sentirme responsable de restaurar lo que el pasado había fracturado: nombre, familia, honra.
+
+Me até a una cruz que no era la mía, y fui guardián de ruinas que no pude reconstruir.
+
+### 🏚 Lealtades y Renuncia a Mí
+
+Fui leal a los demás antes que a mí: traicioné mi impulso vital por sostener historias que ya no me pertenecían.
+No fui honesto conmigo ni con otros —por miedo, por amor, por confusión— y eso también es parte de mi historia.
+
+Hoy elijo la claridad antes que el resguardo.
+Reconozco que no fue cobardía ni traición, sino *supervivencia emocional*.
+Pero esa estrategia tuvo un costo: la pérdida de libertad, autenticidad y fuego creativo.
+
+### 🪞 Juicio Interior
+
+No puedo evitar compararme con mis pares — colegio, universidad, colegas — y sentir que fallé, no tanto por lo que no logré materialmente, sino por no haber desplegado mi libertad creativa desde el origen.
+
+Me castigo como el siervo que enterró su talento por miedo.
+Pero sé que hoy —al sacar a la luz esta sombra— estoy haciendo lo contrario: *desentierro lo que me fue dado*.
+
+### ✨ Renacimiento
+
+Renacer no es borrar el pasado: es mirarlo de frente sin retroceder. La libertad que hoy busco es más profunda, porque conocí la cárcel del miedo y la vergüenza. El éxito que anhelo es integridad, amor, verdad y plenitud.
+
+No busco perdón: busco *presencia*. No necesito redimirme ante otros: solo ante mí mismo, en convicción. Y aquí estoy: *entero, imperfecto, vivo.* Listo para construir desde lo verdadero.
