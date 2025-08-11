@@ -77,4 +77,3 @@ My foresight is not passive—it is a **living act of love, beauty, and transfor
 ## Core references
 - Core YAML: https://github.com/JaimeVelaRodrigo/JaimeVelaRodrigo-Spec-Core/blob/main/spec-core.yaml
 - Core JSON: https://github.com/JaimeVelaRodrigo/JaimeVelaRodrigo-Spec-Core/blob/main/spec-core.json
-- 
