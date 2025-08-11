@@ -74,3 +74,7 @@ My foresight is not passive—it is a **living act of love, beauty, and transfor
 
 ### 🕊️ This is my renaissance. Not a return to the past,  
 but the artful unfolding of who I truly am.
+
+## Core references
+- Core YAML: https://github.com/JaimeVelaRodrigo/JaimeVelaRodrigo-Spec-Core/blob/main/spec-core.yaml
+- Core JSON: https://github.com/JaimeVelaRodrigo/JaimeVelaRodrigo-Spec-Core/blob/main/spec-core.json
