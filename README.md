@@ -2,6 +2,13 @@
 
 ### A Manifesto of Vital Emergence, Beauty, and Transformative Joy
 
+Vital manifesto of presence, dignity, and stewardship of nostalgia.
+
+- See `spec.yaml` / `spec.json` for machine-readable spec
+- Core references:
+  - YAML: https://github.com/JaimeVelaRodrigo/JaimeVelaRodrigo-Spec-Core/blob/main/spec-core.yaml
+  - JSON: https://github.com/JaimeVelaRodrigo/JaimeVelaRodrigo-Spec-Core/blob/main/spec-core.json
+
 ---
 
 ## 1. Essential Core – *What I Am*
