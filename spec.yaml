@@ -1,24 +1,40 @@
 meta:
-  name: "Spec-Renaissance"
-  version: "2025-08-11"
-  language: "en"
+  name: "Spec Renaissance"
+  version: "v1.2-M2"
+  last_updated: "2025-08-18"
+  language: ["en"]
+  active: true
 
-identity:
-  essence: >
-    A life reawakened: beauty, freedom, responsibility, equity, diversity,
-    and communion with creation. Aesthetic desire as a path to truth.
+alignment:
+  core_reference: "../../core/spec-core.yaml"
+  coherence_notes: "Beauty + ethics + symbolic thought turned into grounded action."
 
-presence:
-  I_AM: >
-    I meet life to offer what I am; each encounter is sacred. The Divine may
-    manifest through my action; I walk without nostalgia or victimhood.
+content:
+  vision: >
+    Live and build from beauty, freedom and responsibility; let aesthetic desire
+    and embodied ethics guide practical, dignified action.
+  values: [Beauty, Harmony, Responsibility, Integrity, Joy]
+  principles:
+    - Clarity and beauty before complexity.
+    - Translate invisible meaning into concrete action.
+    - Celebrate life: no victimhood, no nostalgia as anchor.
+  practices:
+    - Daily VCA (15’ reflection + 60’ action).
+    - Keep a living glossary to preserve language coherence.
+  areas_for_improvement:
+    - Anchor abstractions with concrete examples and follow-through.
+  applications:
+    - Public reflections/talks that open perspectives with sobriety.
+    - Decision maps informed by aesthetic–ethical lenses.
 
-nostalgia:
-  stewardship: >
-    I cherish the beauty I have lived and the love I received, and I convert
-    that remembrance into present clarity and forward motion.
+machine_summary:
+  headlines:
+    - "Renaissance = beauty, ethics and symbolic thought → grounded action."
+    - "Every insight closes with 3 verifiable steps in seven days."
+  keywords: ["renaissance","beauty","ethics","symbolic","clarity","action"]
 
-integration:
-  shadow_redemption: >
-    I name my fears and loops, transmute them through truth, art, and service,
-    and return to dignity.
+ontology:
+  schema_org:
+    person: "https://schema.org/Person"
+  foaf:
+    person: "http://xmlns.com/foaf/0.1/Person"
